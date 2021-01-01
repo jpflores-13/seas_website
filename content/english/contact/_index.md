@@ -1,6 +1,6 @@
 ---
-bg_image: images/featue-bg.jpg
-description: this is meta description
+bg_image: images/collab.jpg
+description: 
 draft: false
-title: Drop Us A Note
+title: Collaborate with us!
 ---

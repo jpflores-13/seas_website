@@ -1,6 +1,6 @@
 ---
-bg_image: images/featue-bg.jpg
-description: this is meta description
+bg_image: images/lightbulb.jpg
+description: 
 draft: false
-title: About Our Company
+title: About us
 ---
