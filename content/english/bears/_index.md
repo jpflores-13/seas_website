@@ -1,6 +1,6 @@
 ---
 bg_image: images/featue-bg.jpg
-description: this is meta description
+description: Biology Equity and Action Representatives
 draft: false
-title: Our Project
+title: BEARs Coalition
 ---
