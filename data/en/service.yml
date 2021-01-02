@@ -5,7 +5,7 @@ service:
   description : "Our shared vision integrates the following:"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-map #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Culture
       content: "Foster an intentional and accessible space for students from varied backgrounds and abilities to build community and find a sense of belonging within STEM."
 

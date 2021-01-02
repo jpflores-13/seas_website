@@ -51,55 +51,50 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  bg_image : "images/school supplies.jpg"
+  title : "Want to stay up-to-date?"
+  content : "Check out our master calendar!"
   button:
     enable : true
-    label : "Tell Us Your Story"
-    link : "contact"
-
+    label : "Master Calendar"
+    link : "https://docs.google.com/spreadsheets/d/1eCaxqTdvyVvTSVGYDM2qzj3wPcBfDb35AxVYL5SmS9A/edit?usp=sharing"
+    
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "Student Demographics"
-  description : "add our/oxy demographics here?"
+  title : "Student & Alumni Spotlights"
+  description : "Meet our future and current leaders in STEM!"
   funfact_item:
     # funfacts item loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Cups Of Coffee"
-      count : "99"
+    - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Probable Cups Of Coffee Consumed"
+      count : "7129"
       
     # funfacts item loop
-    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Article Written"
-      count : "45"
+    - icon : "ion-ios-flame" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Alumni in our CATALYST program"
+      count : "77"
       
     # funfacts item loop
-    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "125"
+    - icon : "ion-clipboard" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Ongoing Projects"
+      count : "6"
       
     # funfacts item loop
-    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
-      count : "200"
+    - icon : "ion-ios-paw" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Students in SEAS"
+      count : "32"
 
   testimonial_slider:
     # testimonial item loop
-    - name : "JP Flores"
-      image : "images/jp.png"
-      designation : "Professor, R God"
-      content : "did u know i have a dog named vienna"
+    - name : "Michelle Huang"
+      image : "images/michelle_huang.jpeg"
+      designation : "First-Gen, Sophomore, Chemistry Major"
+      content : "Hello! I am Michelle Huang, a First-Gen student at Oxy. I am currently in my sophomore year, majoring in Chemistry. In my career, I hope to be take on an interdisciplinary position relating to both chemistry and the environment such as a hydrologist or an environmental chemist. A fun fact about me is that I was captain of my high schools’s flag football team!"
                 
     # testimonial item loop
-    - name : "Harjas Dhillon"
-      image : "images/harj.png"
-      designation : "The Public Health Hero We All Need"
-      content : "i luv feasty"
+    - name : "Mudaser Busam"
+      image : "images/"
+      designation : ""
+      content : ""
                 
-    # testimonial item loop
-    - name : "Mika O'Shea"
-      image : "images/mika.jpg"
-      designation : "Just Vibin"
-      content : ":P"
