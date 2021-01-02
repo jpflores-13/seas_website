@@ -1,5 +1,5 @@
 ############################# Vision ###############################
-vision:
+service:
   enable : true
   title : "Our Vision"
   description : "Our shared vision integrates the following:"
