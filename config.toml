@@ -106,7 +106,7 @@ link = "projects"
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "34.1273"
-map_longitude = "118.2101"
+map_longitude = "-118.2101"
 map_marker = "images/marker.png"
 
 # cookies

@@ -1,5 +1,5 @@
 ---
-bg_image: images/featue-bg.jpg
+bg_image: images/bears.jpg
 description: Biology Equity and Action Representatives
 draft: false
 title: BEARs Coalition
