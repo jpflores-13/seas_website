@@ -172,16 +172,19 @@ hasChildren = true
   parent = "Projects"
   name = "CATALYST"
   URL = "catalyst"
+  weight = 1
 
   [[Languages.en.menu.main]]
   parent = "Projects"
   name = "PROMISE"
   URL = "promise"
+  weight = 2
 
   [[Languages.en.menu.main]]
   parent = "Projects"
   name = "BEARs"
   URL = "bears"
+  weight = 3
   
 
 [[Languages.en.menu.main]]
