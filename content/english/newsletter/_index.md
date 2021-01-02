@@ -1,7 +1,7 @@
 ---
 bg_image: images/news.jpg
 date: "2020-03-23T13:05:29+06:00"
-description: for Students, Faculty, and Staff
+description: for Students, Alumni, Faculty, and Staff
 draft: false
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
 title: CATALYST Newsletter
