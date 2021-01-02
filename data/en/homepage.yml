@@ -14,15 +14,12 @@ banner:
 about:
   enable : true
   title : "OUR PURPOSE"
-  description : "The objective of SEAS is to support and empower students from marginalized or historically underrepresented groups in science. We believe that recognizing difference and fully embracing our collective diversity is key to our community’s excellence. Our shared vision therefore integrates the following"
-  content : "1. Foster an intentional and accessible space for students from varied backgrounds and abilities to build community and find a sense of belonging within STEM. 
-
-2. Advocate for the needs of marginalized students and for the integration of a social justice lens in  scientific curriculum at Occidental College. 
-
-3. Collaborate with faculty, alumni, students, and community members to elevate accessibility to resources and opportunities that will support marginalized students’ educational, professional, and personal goals in STEM. 
-"
+  description : "The objective of SEAS is to support and empower students from marginalized or historically underrepresented* groups in science. We believe that recognizing differences and fully embracing our collective diversity is key to our community’s excellence." 
+ # Our shared vision therefore integrates the following:
+ # content : "Foster an intentional and accessible space for students from varied backgrounds and abilities to build community and find a sense of belonging within STEM. "
+ # content : "Advocate for the needs of marginalized students and for the integration of a social justice lens in  scientific curriculum at Occidental College." 
+ # content : "Collaborate with faculty, alumni, students, and community members to elevate accessibility to resources and opportunities that will support marginalized students’ educational, professional, and personal goals in STEM."
   image : "images/classroom.jpg"
-
   content : "*includes students from underrepresented racial/ethnic groups in science, those embracing diverse gender identities/expressions, sexual orientations, and abilities; as well as those who identify as neurodiverse, first-generation, and/or low-income/economically disadvantaged."
   
   ######################### Portfolio ###############################
@@ -45,7 +42,7 @@ about:
 #     link : "project"
 
 
-############################# Service ############################
+############################# service ############################
 service:
   enable : true
   # service content comes from "data/*/service.yml" file

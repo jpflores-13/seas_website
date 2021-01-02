@@ -1,0 +1,50 @@
+############################# Vision ###############################
+vision:
+  enable : true
+  title : "Our Vision"
+  description : "Our shared vision integrates the following:"
+  service_item:
+    # service item loop
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Culture
+      content: "Foster an intentional and accessible space for students from varied backgrounds and abilities to build community and find a sense of belonging within STEM."
+
+    # service item loop
+    - icon : ion-power #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Empowerment
+      content: "Advocate for the needs of marginalized students and for the integration of a social justice lens in  scientific curriculum at Occidental College."
+    
+    # service item loop
+    - icon : ion-ios-people #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Community
+      content: "Collaborate with faculty, alumni, students, and community members to elevate accessibility to resources and opportunities that will support marginalized students’ educational, professional, and personal goals in STEM"
+
+    # service item loop
+    - icon : ion-ios-play #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Action
+      content: "Set out with tangible and intentional action plans for long-term change"
+
+    # service item loop
+    # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    # name: Logo Design
+    # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    # name: Development
+    # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    # name: Brand Identity
+    # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    # - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    # name: Brand Identity
+    # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
