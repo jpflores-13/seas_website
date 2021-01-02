@@ -62,7 +62,7 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "Student & Alumni Spotlights"
+  title : "Student & Alumni Spotlight"
   description : "Meet our future and current leaders in STEM!"
   funfact_item:
     # funfacts item loop
