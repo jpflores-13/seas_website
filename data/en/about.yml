@@ -15,7 +15,7 @@ about:
     enable : true
     label : "The SEAS Google Drive"
     link : "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
-
+    
 #   funfacts:
 #     # funfacts loop
 #     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -82,10 +82,9 @@ about:
 #       name : "Branding"
 #       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 #     
-
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : true
+  testimonial_slider:
+    enable: true
   # testimonial content comes from "data/*/homepage.yml" file
 
 # mission_vision:

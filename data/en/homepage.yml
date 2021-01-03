@@ -91,10 +91,9 @@ funfacts:
   #     image : "images/michelle_huang.jpeg"
   #     designation : "First-Gen, Sophomore, Chemistry Major"
   #     content : "Hello! I am Michelle Huang, a First-Gen student at Oxy. I am currently in my sophomore year, majoring in Chemistry. In my career, I hope to be take on an interdisciplinary position relating to both chemistry and the environment such as a hydrologist or an environmental chemist. A fun fact about me is that I was captain of my high schools’s flag football team!"
-  #               
+  # 
   #   # testimonial item loop
   #   - name : "Mudaser Busam"
   #     image : "images/"
   #     designation : ""
   #     content : ""
-                
