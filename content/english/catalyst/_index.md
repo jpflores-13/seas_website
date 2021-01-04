@@ -1,5 +1,5 @@
 ---
-bg_image: images/catalyst-oxy.png
+bg_image: images/grad.jpg
 description: BIPOC Student-Alumni Network
 draft: false
 title: CATALYST Program
