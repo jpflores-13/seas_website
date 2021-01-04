@@ -36,7 +36,6 @@
       {{ end }}
     </div>
   </div>
-</section>
 {{ end }}
 {{ end }}
 
@@ -69,27 +68,6 @@
 {{ end }}
 {{ end }}
 
-<section class="testimonial section-sm">
-  <div class="container">
-    <div class="row">
-      {{ if $data.about.testimonial.enable }}
-      <div class="col-md-6">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range $data.homepage.funfacts.testimonial_slider }}
-            <div>
-              <i class="ion-quote"></i>
-              <p>"{{ .content | markdownify }}"</p>
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-      {{ end }}
 
       {{ if $data.about.mission_vision.enable }}
       {{ with $data.about.mission_vision }}

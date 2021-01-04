@@ -190,16 +190,10 @@ hasChildren = true
   URL = "bears"
   weight = 3
   
-
-[[Languages.en.menu.main]]
-name = "Newsletter"
-URL = "newsletter"
-weight = 4
-
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 4
 
 
 # footer menu
@@ -214,14 +208,9 @@ URL = "project"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Newsletter"
-URL = "newsletter"
-weight = 3
-
-[[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 3
 
 
 
