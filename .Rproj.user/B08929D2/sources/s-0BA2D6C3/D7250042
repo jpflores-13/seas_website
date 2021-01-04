@@ -1,24 +1,24 @@
 {
-    "id": "3286493A",
-    "path": "~/Desktop/seas_website/data/en/homepage.yml",
-    "project_path": "data/en/homepage.yml",
-    "type": "yaml",
+    "id": "D7250042",
+    "path": "~/Desktop/seas_website/themes/airspace-hugo/theme.toml",
+    "project_path": "themes/airspace-hugo/theme.toml",
+    "type": "toml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1609661816026.0,
+    "created": 1609749842111.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "94,27",
+        "cursorPosition": "14,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609744288,
+    "lastKnownWriteTime": 1609224710,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609744288304,
+    "last_content_update": 1609224710,
     "read_only": false,
     "read_only_alternatives": []
 }
