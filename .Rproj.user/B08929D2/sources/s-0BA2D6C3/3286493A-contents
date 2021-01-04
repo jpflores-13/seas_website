@@ -1,0 +1,99 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/official logo.png"
+  bg_overlay : true
+  title : "Students for Equity & Advocacy in STEM"
+  content : "Occidental College"
+  button:
+    enable : true
+    label : "The SEAS Google Drive"
+    link : "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
+
+############################# About #################################
+about:
+  enable : true
+  title : "OUR PURPOSE"
+  description : "The objective of SEAS is to support and empower students from marginalized or historically underrepresented* groups in science. We believe that recognizing differences and fully embracing our collective diversity is key to our community’s excellence." 
+ # Our shared vision therefore integrates the following:
+ # content : "Foster an intentional and accessible space for students from varied backgrounds and abilities to build community and find a sense of belonging within STEM. "
+ # content : "Advocate for the needs of marginalized students and for the integration of a social justice lens in  scientific curriculum at Occidental College." 
+ # content : "Collaborate with faculty, alumni, students, and community members to elevate accessibility to resources and opportunities that will support marginalized students’ educational, professional, and personal goals in STEM."
+  image : "images/classroom.jpg"
+  content : "*includes students from underrepresented racial/ethnic groups in science, those embracing diverse gender identities/expressions, sexual orientations, and abilities; as well as those who identify as neurodiverse, first-generation, and/or low-income/economically disadvantaged."
+  
+  ######################### Portfolio ###############################
+# portfolio:
+#   enable : true
+#   #bg_image : "images/lightbulb.jpg"
+#   title : "WE BELIEVE IN GREAT IDEAS"
+#   content : "
+#   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+# 
+# 
+#   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+# 
+# 
+#   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+#   "
+#   button:
+#     enable : true
+#     label : "View Works"
+#     link : "project"
+
+
+############################# service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/school supplies.jpg"
+  title : "Want to stay up-to-date?"
+  content : "Check out our master calendar!"
+  button:
+    enable : true
+    label : "Master Calendar"
+    link : "https://docs.google.com/spreadsheets/d/1eCaxqTdvyVvTSVGYDM2qzj3wPcBfDb35AxVYL5SmS9A/edit?usp=sharing"
+    
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Achievements"
+  description : "See what we've accomplished so far!"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Departments engaged in our work"
+      count : "3"
+      
+    # funfacts item loop
+    - icon : "ion-ios-flame" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Alumni in our CATALYST program"
+      count : "77"
+      
+    # funfacts item loop
+    - icon : "ion-clipboard" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Ongoing Projects"
+      count : "6"
+      
+    # funfacts item loop
+    - icon : "ion-ios-paw" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Students in SEAS"
+      count : "32"
+
+  # testimonial_slider:
+  #   # testimonial item loop
+  #   - name : "Michelle Huang"
+  #     image : "images/michelle_huang.jpeg"
+  #     designation : "First-Gen, Sophomore, Chemistry Major"
+  #     content : "Hello! I am Michelle Huang, a First-Gen student at Oxy. I am currently in my sophomore year, majoring in Chemistry. In my career, I hope to be take on an interdisciplinary position relating to both chemistry and the environment such as a hydrologist or an environmental chemist. A fun fact about me is that I was captain of my high schools’s flag football team!"
+  # 
+  #   # testimonial item loop
+  #   - name : "Mudaser Busam"
+  #     image : "images/"
+  #     designation : ""
+  #     content : ""
