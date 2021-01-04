@@ -13,14 +13,16 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "OUR PURPOSE"
-  description : "The objective of SEAS is to support and empower students from marginalized or historically underrepresented* groups in science. We believe that recognizing differences and fully embracing our collective diversity is key to our community’s excellence." 
+  title: "OUR STORY"
+  description : "This summer, several Occidental Biology, Biochemistry, and Chemistry students came together to discuss ways in which their respective academic departments can implement meaningful changes to empower and create a sense of belonging for students who identify as Black, Indigenous, and People of Color (BIPOC), as well as students holding other historically underrepresented identities in STEM. This cohort of students, now formally known as the Students for Equity in STEM, gathered both in response to the national call to critically evaluate and reimagine the unjust and inequitable operations of existing systems, such as policing or academia, and with the understanding that all STEM fields have been and remain exclusionary to marginalized communities across the nation. Thus, acknowledging the numerous ways in which these fields continue to uphold white supremacy, this cohort came together to advocate for intentional community-building for Oxy students who embrace marginalized identities in science."
+  #title : "OUR PURPOSE"
+  #description : "The objective of SEAS is to support and empower students from marginalized or historically underrepresented* groups in science. We believe that recognizing differences and fully embracing our collective diversity is key to our community’s excellence." 
  # Our shared vision therefore integrates the following:
  # content : "Foster an intentional and accessible space for students from varied backgrounds and abilities to build community and find a sense of belonging within STEM. "
  # content : "Advocate for the needs of marginalized students and for the integration of a social justice lens in  scientific curriculum at Occidental College." 
  # content : "Collaborate with faculty, alumni, students, and community members to elevate accessibility to resources and opportunities that will support marginalized students’ educational, professional, and personal goals in STEM."
   image : "images/classroom.jpg"
-  content : "*includes students from underrepresented racial/ethnic groups in science, those embracing diverse gender identities/expressions, sexual orientations, and abilities; as well as those who identify as neurodiverse, first-generation, and/or low-income/economically disadvantaged."
+ # content : "*includes students from underrepresented racial/ethnic groups in science, those embracing diverse gender identities/expressions, sexual orientations, and abilities; as well as those who identify as neurodiverse, first-generation, and/or low-income/economically disadvantaged."
   
   ######################### Portfolio ###############################
 # portfolio:

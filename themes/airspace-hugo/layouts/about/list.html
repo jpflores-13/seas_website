@@ -6,40 +6,6 @@
 
 {{ if $data.about.about.enable }}
 {{ with $data.about.about }}
-<section class="story section">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <div class="about-img">
-        </div>
-      </div>
-      <div class="col-md-12">
-        <h2 class="mt-40">{{ .title | markdownify }}</h2>
-        {{ .content | markdownify }}
-        {{ if .button.enable }}
-        {{ with .button }}
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-    <div class="row counter-box text-center mt-50">
-      {{ range .funfacts }}
-      <div class="col-md-2">
-        <div class="counter-item">
-          <i class="{{ .icon }}"></i>
-          <h4 class="count" data-count="{{ .count }}">0</h4>
-          <span>{{ .name }}</span>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-{{ end }}
-{{ end }}
-
-
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
 <section class="about section">
   <div class="container">
     <div class="row">
