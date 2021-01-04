@@ -64,8 +64,8 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "Achievements"
-  description : "See what we've accomplished so far!"
+  title : "Student & Alumni Spotlight"
+  description : "Check out our future and current leaders!"
   funfact_item:
     # funfacts item loop
     - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
