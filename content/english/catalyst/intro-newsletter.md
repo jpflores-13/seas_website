@@ -32,18 +32,9 @@ Best,
 The CATALYST Team
 </p>
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
-
-
 Now, to meet the team!
 
+insert images and blurbs here
 
-i'm stuck idk how to add pics lol
 
 </p>
