@@ -28,7 +28,8 @@ To increase engagement in and raise accessibility to STEM education and opportun
 ## Eligibility
 The first cohort of PROMISE will be composed of 20 incoming high school juniors or seniors enrolled in Los Angeles County high schools. Prospective applicants must be currently enrolled incoming juniors or seniors in Los Angeles County, preferably in Northeast LA. No GPA requirement or prior experience in STEM is necessary to apply. There is an application fee (do we want one?) of $15.00 (random). This fee can be waived by getting in contact with x@oxy.edu. 
 
-![Map of high schools in Northeast Los Angeles](/promise/rio-furniture-1_files/schools_in_la.png)
+
+![Map of high schools in Northeast Los Angeles](/english/promise/promise-framwork_files/schools_in_la.png)
 
 ## Why students from Northeast Los Angeles (NELA)? 
 
