@@ -1,6 +1,6 @@
 ---
 author: CATALYST Team
-bg_image: images/featue-bg.jpg
+bg_image: images/grad.jpg
 categories:
 - Company News
 date: "2021-01-05T11:07:10+06:00"
