@@ -39,7 +39,7 @@ The CATALYST Team
 This summer, several Occidental Biology, Biochemistry, and Chemistry students came together to discuss ways in which their respective academic departments can implement meaningful changes to empower and create a sense of belonging for students who identify as Black, Indigenous, and People of Color (BIPOC), as well as students holding other historically underrepresented identities in STEM. This cohort of students, now formally known as the Students for Equity in STEM, gathered both in response to the national call to critically evaluate and reimagine the unjust and inequitable operations of existing systems, such as policing or academia, and with the understanding that all STEM fields have been and remain exclusionary to marginalized communities across the nation. Thus, acknowledging the numerous ways in which these fields continue to uphold white supremacy, this cohort came together to advocate for intentional community-building for Oxy students who embrace marginalized identities in science.
 </p>
 
-### Meet the Team
+### Meet the CATALYST Team
 
 ![catalyst team part 1](/english/catalyst/intro-newsletter_files/catalyst-team-1.png)
 ![catalyst team part 2](/english/catalyst/intro-newsletter_files/catalyst-team-2.png)
