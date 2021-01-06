@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CATALYST Newsletter on Students for Equity and Advocacy in STEM</title>
+    <link>http://oxyseas.netlify.app/newsletter/</link>
+    <description>Recent content in CATALYST Newsletter on Students for Equity and Advocacy in STEM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 23 Mar 2020 13:05:29 +0600</lastBuildDate><atom:link href="http://oxyseas.netlify.app/newsletter/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

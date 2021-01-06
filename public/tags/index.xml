@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Students for Equity and Advocacy in STEM</title>
+    <link>http://oxyseas.netlify.app/tags/</link>
+    <description>Recent content in Tags on Students for Equity and Advocacy in STEM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 11:07:10 +0600</lastBuildDate><atom:link href="http://oxyseas.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alumni</title>
+      <link>http://oxyseas.netlify.app/tags/alumni/</link>
+      <pubDate>Tue, 05 Jan 2021 11:07:10 +0600</pubDate>
+      
+      <guid>http://oxyseas.netlify.app/tags/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>http://oxyseas.netlify.app/tags/network/</link>
+      <pubDate>Tue, 05 Jan 2021 11:07:10 +0600</pubDate>
+      
+      <guid>http://oxyseas.netlify.app/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>http://oxyseas.netlify.app/tags/student/</link>
+      <pubDate>Tue, 05 Jan 2021 11:07:10 +0600</pubDate>
+      
+      <guid>http://oxyseas.netlify.app/tags/student/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
