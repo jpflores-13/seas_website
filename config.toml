@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "http://oxyseas.netlify.app"
 title = "Students for Equity and Advocacy in STEM"
 theme = "airspace-hugo"
 # post pagination
