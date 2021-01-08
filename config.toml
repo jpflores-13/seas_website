@@ -89,7 +89,7 @@ location = "Los Angeles, CA, USA"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analytics_id = "" # Your ID# search
+google_analytics_id = "G-ZSL3KGBQW5" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
