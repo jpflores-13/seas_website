@@ -116,9 +116,9 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
-[[params.social]]
-icon = "ion-social-google-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
+# [[params.social]]
+# icon = "ion-social-google-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
