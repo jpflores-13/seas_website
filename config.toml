@@ -77,7 +77,10 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 logo = "images/logo2.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
+description = "We are a student-led group striving for just and equitable learning environments for historically underrepresented* students.The purpose of Students for Equity & Advocacy in STEM (SEAS) is to support and empower students from all backgrounds and class years, especially those from marginalized or historically underrepresented* communities in Science. We are united in our effort to foster an intentional and accessible space for students from diverse backgrounds to build community and a sense of belonging within academia. We are  committed to advocating for the needs of marginalized students and for a social justice-centered curriculum. We also aim to collaborate with faculty and alumni to elevate accessibility to resources and opportunities that will support marginalized students’ educational, professional, and personal goals. 
+         
+*includes BIPOC students, first-generation students, low-income students, disabled students, and LGBTQ+ students."
+
 author = "Themefisher"
 # Contact Information
 mobile = ""
