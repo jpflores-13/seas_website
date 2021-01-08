@@ -85,7 +85,7 @@ mobile = ""
 email = "seas[at]oxy.edu"
 location = "Los Angeles, CA, USA"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/xjvpjwed" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analytics_id = "G-L7G5H5YES9" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
