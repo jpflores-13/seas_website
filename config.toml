@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://oxyseas.netlify.app"
+baseURL = "http://oxyseas.rbind.io"
 title = "Students for Equity and Advocacy in STEM"
 theme = "airspace-hugo"
 # post pagination
