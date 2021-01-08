@@ -81,7 +81,7 @@ description = "We are a student-led group striving for just and equitable learni
 
 author = "Themefisher"
 # Contact Information
-mobile = ""
+# mobile = ""
 email = "seas[at]oxy.edu"
 location = "Los Angeles, CA, USA"
 # contact form action
