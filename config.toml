@@ -126,7 +126,7 @@ link = "#"
 
 [[params.social]]
 icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.instagram.com/oxy_seas/?hl=en"
 
 # [[params.social]]
 # icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -207,6 +207,25 @@ weight = 1
 name = "Projects"
 URL = "project"
 weight = 2
+hasChildren = true
+
+ [[Languages.en.menu.footer]]
+  parent = "Projects"
+  name = "CATALYST"
+  URL = "catalyst"
+  weight = 1
+
+  [[Languages.en.menu.footer]]
+  parent = "Projects"
+  name = "PROMISE"
+  URL = "promise"
+  weight = 2
+
+  [[Languages.en.menu.footer]]
+  parent = "Projects"
+  name = "BEARs"
+  URL = "bears"
+  weight = 3
 
 [[Languages.en.menu.footer]]
 name = "Contact"
