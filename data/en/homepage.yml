@@ -5,10 +5,10 @@ banner:
   bg_overlay : true
   title : "Students for Equity & Advocacy in STEM"
   content : "Occidental College"
-  button:
-    enable : true
-    label : "The SEAS Google Drive"
-    link : "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
+  # button:
+  #   enable : true
+  #   label : "The SEAS Google Drive"
+  #   link : "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
 
 ############################# About #################################
 about:
