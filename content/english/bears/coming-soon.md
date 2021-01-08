@@ -1,9 +1,10 @@
 ---
-bg_image: images/featue-bg.jpg
+
 category: UI/UX Design
 description: Check back regularly for more information!
 draft: false
-image: images/portfolio/work1.jpg
+date: "2021-01-07T11:07:10+06:00"
+image: images/coming-soon.jpg
 information:
 - info: Jannie Kelonsky
   label: Client
