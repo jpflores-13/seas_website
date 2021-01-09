@@ -122,7 +122,7 @@ expire_days = 2
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.linkedin.com/in/oxy-seas/"
 
 [[params.social]]
 icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
