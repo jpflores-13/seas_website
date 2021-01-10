@@ -97,7 +97,8 @@ funfacts:
     - name : "Michelle Huang"
       image : "images/michelle_huang.jpeg"
       designation : "First-Gen, Sophomore, Chemistry Major"
-      content : "Hello! I am Michelle Huang, a First-Gen student at Oxy. I am currently in my sophomore year, majoring in Chemistry. In my career, I hope to be take on an interdisciplinary position relating to both chemistry and the environment such as a hydrologist or an environmental chemist. A fun fact about me is that I was captain of my high schools’s flag football team!"
+      content : "Hello! I am Michelle Huang, a First-Gen student at Oxy. I am currently in my sophomore year, majoring in Chemistry. My passion for chemistry started in high school when I took AP Chemistry. Though it was challenging, understanding phenomenas from an atomic level was so exciting. Everything felt like magic. As I continued my interest at Oxy, I joined The Hill Lab during my freshman year and have taken part in exploring the malleability of the eye’s cornea ever since.
+Since I am pretty new to the field, I am still exploring different disciplines but I am thinking about pursuing a career that intersects chemistry with sustainability. To be honest, any career that allows me to travel would be great. Outside of academics, I enjoy beach days with friends, eating dim sum, and thrifting. A fun fact about me is that I was the captain of my high school’s flag football team!"
 
     # testimonial item loop
     - name : "Mudaser Basam"
