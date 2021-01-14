@@ -168,9 +168,14 @@ URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
+name = "Representaion Matters Speaker Series"
+URL = "representation"
+weight = 3
+
+[[Languages.en.menu.main]]
 name = "Projects"
 URL = "projects"
-weight = 3
+weight = 4
 hasChildren = true
 
   [[Languages.en.menu.main]]
@@ -194,7 +199,7 @@ hasChildren = true
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 4
+weight = 5
 
 
 # footer menu
@@ -204,24 +209,29 @@ URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
+name = "Representaion Matters Speaker Series"
+URL = "representation"
+weight = 2
+
+[[Languages.en.menu.footer]]
 name = "CATALYST"
 URL = "catalyst"
-weight = 1
+weight = 3
 
 [[Languages.en.menu.footer]]
 name = "PROMISE"
 URL = "promise"
-weight = 2
+weight = 4
 
 [[Languages.en.menu.footer]]
 name = "BEARs"
 URL = "bears"
-weight = 3
+weight = 5
 
 [[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 6
 
 
 
