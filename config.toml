@@ -168,7 +168,7 @@ URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Representaion Matters Speaker Series"
+name = "Representation Matters Speaker Series"
 URL = "representation"
 weight = 3
 
@@ -209,7 +209,7 @@ URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Representaion Matters Speaker Series"
+name = "Representation Matters Speaker Series"
 URL = "representation"
 weight = 2
 
