@@ -168,9 +168,23 @@ URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Representation Matters Speaker Series"
+name = "Events"
 URL = "representation"
 weight = 3
+hasChildren = true
+  
+   [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "Representation Matters Speaker Series"
+  URL = "representation"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "panels"
+  URL = "representation"
+  weight = 2
+
 
 [[Languages.en.menu.main]]
 name = "Projects"
@@ -195,6 +209,12 @@ hasChildren = true
   name = "BEARs"
   URL = "bears"
   weight = 3
+  
+  [[Languages.en.menu.main]]
+  parent = "Projects"
+  name = "Chemistry Liaisons"
+  URL = "liaisons"
+  weight = 4
   
 [[Languages.en.menu.main]]
 name = "Contact"
