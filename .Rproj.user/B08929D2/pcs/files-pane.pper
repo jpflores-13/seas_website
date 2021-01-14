@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/Desktop/seas_website/data/en"
+    "path": "~/Desktop/seas_website/content/english/representation"
 }
