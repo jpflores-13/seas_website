@@ -181,7 +181,7 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Events"
-  name = "panels"
+  name = "Panels"
   URL = "representation"
   weight = 2
 
