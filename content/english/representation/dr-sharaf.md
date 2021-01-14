@@ -28,5 +28,6 @@ Speaker series description coming soon!
 
 
 Best,
+
 The CATALYST x BEARs Team
 </p>
