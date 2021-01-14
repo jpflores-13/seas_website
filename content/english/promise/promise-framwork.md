@@ -25,9 +25,6 @@ To increase engagement in and raise accessibility to STEM education and opportun
 - Curate supportive systems for students from underrepresented backgrounds in STEM by providing mentorship opportunities and collaborating with a variety of campus offices and departments.
 - Create mutually beneficial partnerships (as outlined in the [Principles for Occidental College-Community Neighborhood Development](https://drive.google.com/file/d/19dm0bymMnUMSljUC3VJuNlBVIp2NEcYl/view)) between Occidental College and surrounding high schools in the Los Angeles community, with an emphasis on Northeast LA. 
 
-## Eligibility
-The first cohort of PROMISE will be composed of 20 incoming high school juniors or seniors enrolled in Los Angeles County high schools. Prospective applicants must be currently enrolled incoming juniors or seniors in Los Angeles County, preferably in Northeast LA. No GPA requirement or prior experience in STEM is necessary to apply. There is an application fee (do we want one?) of $15.00 (random). This fee can be waived by getting in contact with x@oxy.edu. 
-
 ## Why students from Northeast Los Angeles (NELA)? 
 
 Occidental College is positioned in a vibrant and diverse community. PROMISE offers an opportunity for Oxy to create new partnerships with local high schools in Los Angeles and to connect with the community through new means. PROMISE will fulfill Oxy’s four cornerstones: excellence, equity, community, and service by providing an avenue for local high school students from underrepresented backgrounds to explore the fields of STEM in a novel and innovative way. Our goal is to not only uplift these students to pursue their educational goals through higher education, but to help diversify science, technology, engineering, and mathematics–fields that historically have failed to be inclusive spaces for marginalized communities. PROMISE centers giving back to the LA community and building mutually beneficial relationships with community partners; working collaboratively with our neighbors to encourage and build a more diverse–and therefore stronger–future STEM workforce. 
@@ -42,8 +39,4 @@ View results for the English Language Arts/Literacy and Mathematics assessment [
 
 As an undergraduate institution with a multitude of STEM departments; all dedicated to [supporting](https://www.oxy.edu/academics/student-success/cosmos/about) students from diverse backgrounds, we feel that Oxy has the capacity and passion to support marginalized high school students in the community who are interested in pursuing STEM. Being an institution that has benefited immensely from the dynamic culture and richness of the city of LA; a community built by hardworking people of color, we believe that Oxy has a moral obligation to give back to the community.
 
-## Outreach to Community 
-Connecting with the LA community will take multiple forms. We plan to engage and gain community input at all stages of the planning and execution process for PROMISE. This will ensure that PROMISE is a truly collaborative effort molded by both Oxy and community members. This form of engagement also ensures that PROMISE serves the community in the way that the community would like to be served. To spread the word about PROMISE, we will contact Los Angeles County high school principals and teachers. Once PROMISE is established, we will send flyers, emails, and contact high school/college counselors about holding short information sessions. 
-
-![Map of Los Angeles County](/english/promise/promise-framwork_files/mapoflacount.png)
 
