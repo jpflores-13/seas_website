@@ -32,15 +32,15 @@ We hope you’re all doing well and are taking good care despite last week’s u
 
 #### Social media
 
->We are now active on Instagram (@oxy_seas) and LinkedIn (linkedin.com/in/oxy-seas). Connect with us!
+>We are now active on [Instagram](instagrama.com/oxy_seas) and [LinkedIn](linkedin.com/in/oxy-seas). Connect with us!
 
 #### Panelist form
 
->We are incredibly excited to announce our first CATALYST event: a panel discussion on “Burnout, Imposter Syndrome, and Finding a Sense of Belonging in STEM”. Underrepresented minorities in STEM are often faced with these unique challenges, and we would like to use the event to validate these experiences and provide students with guidance on how to overcome these barriers in STEM fields. The panel will take place in mid-February, although the specific date and time are to be determined. If you are an Oxy alumnus and are interested in becoming a panelist, please let us know by filling out this short form. A small honorarium will be provided for your labor. We will be in touch with more details shortly!
+>We are incredibly excited to announce our first CATALYST event: a panel discussion on “Burnout, Imposter Syndrome, and Finding a Sense of Belonging in STEM”. Underrepresented minorities in STEM are often faced with these unique challenges, and we would like to use the event to validate these experiences and provide students with guidance on how to overcome these barriers in STEM fields. The panel will take place in mid-February, although the specific date and time are to be determined. If you are an Oxy alumnus and are interested in becoming a panelist, please let us know by filling out this short [form](https://docs.google.com/forms/d/e/1FAIpQLScAnvMCEGuwY0fuRs50yfOnKmkRybk6blPE-ewK94NLI4OxRA/viewform). A small honorarium will be provided for your labor. We will be in touch with more details shortly!
 
 #### Feedback form
 
->We have created feedback forms so that alumni, students, and faculty can anonymously provide input on our work. If you’d like to leave any feedback for the CATALYST team specifically, please use this form. If you’d like to leave feedback for SEAS as a whole, please use this form. For future reference, these forms are also available on our SEAS website. 
+>We have created feedback forms so that alumni, students, and faculty can anonymously provide input on our work. If you’d like to leave any feedback for the CATALYST team specifically, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWl5RzvY__PDvDwVKsIkzBl2fj6fzB5CbCxnUbliz-K3FMAA/viewform). If you’d like to leave feedback for SEAS as a whole, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform). For future reference, these forms are also available under ["ABOUT"](http://oxyseas.rbind.io/about/). 
 
 
 #### Each newsletter will feature some incredible CATALYST members through our student and alumni spotlights. We hope this reinforces our sense of community and helps connect mentors and mentees with similar interests!
