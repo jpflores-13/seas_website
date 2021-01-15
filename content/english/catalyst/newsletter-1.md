@@ -40,7 +40,7 @@ We hope you’re all doing well and are taking good care despite last week’s u
 
 #### Feedback form
 
->We have created feedback forms so that alumni, students, and faculty can anonymously provide input on our work. If you’d like to leave any feedback for the CATALYST team specifically, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWl5RzvY__PDvDwVKsIkzBl2fj6fzB5CbCxnUbliz-K3FMAA/viewform). If you’d like to leave feedback for SEAS as a whole, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform). For future reference, these forms are also available under ["ABOUT"](http://oxyseas.rbind.io/about/). 
+>We have created feedback forms so that alumni, students, and faculty can anonymously provide input on our work. If you’d like to leave any feedback for the CATALYST team specifically, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWl5RzvY__PDvDwVKsIkzBl2fj6fzB5CbCxnUbliz-K3FMAA/viewform). If you’d like to leave feedback for SEAS as a whole, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform). For future reference, these forms are also available [here](http://oxyseas.rbind.io/forms/). 
 
 
 #### Each newsletter will feature some incredible CATALYST members through our student and alumni spotlights. We hope this reinforces our sense of community and helps connect mentors and mentees with similar interests!
