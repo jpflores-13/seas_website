@@ -21,6 +21,6 @@ information:
 title: COMING SOON
 ---
 
-## Panels coming soon!
+## Panels coming soon! 
 
 Follow us on instagram @oxy_seas to keep up with all things SEAS!
