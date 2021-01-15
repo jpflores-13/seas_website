@@ -31,26 +31,30 @@ about:
 
 
   
-  button : 
+  button :
     enable : true
-    label : "CATALYST Panelist Form"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLScAnvMCEGuwY0fuRs50yfOnKmkRybk6blPE-ewK94NLI4OxRA/viewform"
-    
-  button : 
-    enable : true
-    label : "CATALYST Student Interest Form"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLSc2-X4KzpPE3a_RKB-mgLvSDad0fVMkGZ-eZJSx_U0zLOvI1w/viewform"
-    
-  button : 
-    enable : true
-    label : "Anonymous CATALYST Feedback Form"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLSfWl5RzvY__PDvDwVKsIkzBl2fj6fzB5CbCxnUbliz-K3FMAA/viewform"
-    
-  button : 
-    enable : true
-    label : "Anonymous SEAS Feedback Form"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform"
-    
+    label : "Interest Forms and Feedback"
+    link : "https://linktr.ee/oxy_seas"
+  # button : 
+  #   enable : true
+  #   label : "CATALYST Panelist Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLScAnvMCEGuwY0fuRs50yfOnKmkRybk6blPE-ewK94NLI4OxRA/viewform"
+  #   
+  # button : 
+  #   enable : true
+  #   label : "CATALYST Student Interest Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLSc2-X4KzpPE3a_RKB-mgLvSDad0fVMkGZ-eZJSx_U0zLOvI1w/viewform"
+  #   
+  # button : 
+  #   enable : true
+  #   label : "Anonymous CATALYST Feedback Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLSfWl5RzvY__PDvDwVKsIkzBl2fj6fzB5CbCxnUbliz-K3FMAA/viewform"
+  #   
+  # button : 
+  #   enable : true
+  #   label : "Anonymous SEAS Feedback Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform"
+  #   
 #   funfacts:
 #     # funfacts loop
 #     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/

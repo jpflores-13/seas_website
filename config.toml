@@ -217,14 +217,9 @@ hasChildren = true
   weight = 4
   
 [[Languages.en.menu.main]]
-name = "Forms"
-URL = "forms"
-weight = 5
-  
-[[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 # footer menu

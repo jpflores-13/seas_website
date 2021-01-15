@@ -11,8 +11,8 @@ banner:
   #   link : "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
   button :
     enable : true
-    label : "Anonymous Feedback Form"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform"
+    label : "Interest Forms and Feedback"
+    link : "https://linktr.ee/oxy_seas"
 ############################# About #################################
 about:
   enable : true
