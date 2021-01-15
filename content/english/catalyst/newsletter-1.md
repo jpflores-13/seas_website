@@ -6,7 +6,7 @@ categories:
 date: "2021-01-14T11:07:10+06:00"
 description: Happy New Year!
 draft: false
-image: images/catalyst-oxy.png
+image: images/jan-21.png
 tags:
 - Student
 - Alumni
