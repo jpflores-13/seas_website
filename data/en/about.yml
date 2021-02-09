@@ -2,7 +2,8 @@
 story: 
   enable: true
   title: "Our Story"
-   
+
+
 ################################## About #####################################
 about:
   enable : true
@@ -25,16 +26,35 @@ about:
 *includes students from underrepresented racial/ethnic groups in STEM, those embracing diverse gender identities/expressions, sexual orientations, and abilities; as well as those who identify as neurodiverse, first-generation, and/or low-income/economically disadvantaged. 
 
          
-         
+ "
 
 
-"
 
-  # button:
+  
+  button :
+    enable : true
+    label : "Interest Forms and Feedback"
+    link : "https://linktr.ee/oxy_seas"
+  # button : 
   #   enable : true
-  #   label : "The SEAS Google Drive"
-  #   link : "https://drive.google.com/drive/u/0/folders/0ALvoowozSzh9Uk9PVA"
-    
+  #   label : "CATALYST Panelist Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLScAnvMCEGuwY0fuRs50yfOnKmkRybk6blPE-ewK94NLI4OxRA/viewform"
+  #   
+  # button : 
+  #   enable : true
+  #   label : "CATALYST Student Interest Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLSc2-X4KzpPE3a_RKB-mgLvSDad0fVMkGZ-eZJSx_U0zLOvI1w/viewform"
+  #   
+  # button : 
+  #   enable : true
+  #   label : "Anonymous CATALYST Feedback Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLSfWl5RzvY__PDvDwVKsIkzBl2fj6fzB5CbCxnUbliz-K3FMAA/viewform"
+  #   
+  # button : 
+  #   enable : true
+  #   label : "Anonymous SEAS Feedback Form"
+  #   link : "https://docs.google.com/forms/d/e/1FAIpQLScPQTcCT6i07jn9t_25cqB-OFV-3nL0rq8dGpWWAcP87wEnOw/viewform"
+  #   
 #   funfacts:
 #     # funfacts loop
 #     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/

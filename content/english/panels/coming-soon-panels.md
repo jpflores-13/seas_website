@@ -3,7 +3,7 @@
 category: UI/UX Design
 description: Check back regularly for more information!
 draft: false
-date: "2021-01-07T11:07:10+06:00"
+date: "2021-01-14T11:07:10+06:00"
 image: images/coming-soon.jpg
 information:
 - info: Jannie Kelonsky
@@ -21,6 +21,6 @@ information:
 title: COMING SOON
 ---
 
-## Chemistry Liaisons Updates Coming Soon!
+## Panels coming soon! 
 
 Follow us on instagram @oxy_seas to keep up with all things SEAS!
