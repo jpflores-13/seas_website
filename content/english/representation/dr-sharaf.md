@@ -6,7 +6,7 @@ categories:
 date: "2021-01-13T11:58:10+06:00"
 description: Meet Dr. Naima Sharaf
 draft: false
-image: images/dr-sharaf.jpg
+image: images/dr-sharaf-square.jpg
 tags:
 - Student
 - Speaker
