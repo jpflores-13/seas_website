@@ -1,10 +1,11 @@
 ---
-
+title: "Panel #1: Burnout, Imposter Syndrome, and Finding a Sense of Belonging in STEM"
 category: UI/UX Design
-description: Check back regularly for more information!
+description: Panel #1: Burnout, Imposter Syndrome, and Finding a Sense of Belonging in STEM
 draft: false
-date: "2021-01-14T11:07:10+06:00"
-image: images/coming-soon.jpg
+date: "2021-02-09T11:07:10+06:00"
+image: images/catalyst-panel-1.png
+author: Mika O'Shea
 information:
 - info: Jannie Kelonsky
   label: Client
@@ -18,9 +19,9 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: COMING SOON
+
 ---
 
-## Panels coming soon! 
+### Join us on Friday, February 12th at 5pm PST!
 
-Follow us on instagram @oxy_seas to keep up with all things SEAS!
+Check back after the event for highlights, and follow us on instagram @oxy_seas to keep up with all things SEAS!
