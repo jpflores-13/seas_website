@@ -11,7 +11,7 @@ tags:
 - Student
 - Speaker
 - Network
-title: SEAS welcomes Dr. Inca Dietrich!
+title: SEAS welcomes Dr. Inca Dietrich '12!
 type: post
 ---
 
