@@ -3,7 +3,7 @@ author: JP Flores
 bg_image: images/represent.jpg
 categories:
 - Company News
-date: "2021-01-13T11:58:10+06:00"
+date: "2021-02-02T11:58:10+06:00"
 description: Meet Yeraldi Loera!
 draft: false
 image: images/yeraldi-loera.png

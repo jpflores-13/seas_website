@@ -3,7 +3,7 @@ author: JP Flores
 bg_image: images/represent.jpg
 categories:
 - Company News
-date: "2021-01-13T11:58:10+06:00"
+date: "2021-02-09T11:58:10+06:00"
 description: Meet Dr. Inca Dietrich!
 draft: false
 image: images/inca-dietrich.jpeg
