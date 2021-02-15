@@ -11,7 +11,7 @@ tags:
 - Student
 - Speaker
 - Network
-title: SEAS welcomes Dr. Inca Dietrich '12!
+title: SEAS welcomes Dr. Inca Dieterich '12!
 type: post
 ---
 
@@ -28,7 +28,9 @@ ER Acetylation: the quality control checkmark implicated in neurological disorde
 
 > In my thesis, we explored the ramifications both upstream and downstream of dysregulated acetyl-CoA flux. We found that AT-1 plays a central role in proper cellular functioning and homeostasis. AT-1 is essential to maintain proper engagement of the secretory pathway and serves as a metabolic regulator by promoting acetyl-CoA homeostasis and intracellular crosstalk.
 
+</p>
 
+View the recording of Dr. Dieterich's presentation [here](https://oxy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d9de6ef-6fba-4584-9fb9-accb0008d322)! (Oxy credentials are required)
 
 
 Best,

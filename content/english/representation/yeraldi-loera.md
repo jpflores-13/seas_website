@@ -26,7 +26,7 @@ Evolution By Pesticides: Evidence of Evolution in American Alligators (Alligator
 
 </p>
 
-View the recording of Yeraldi's presentation [here](https://oxy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=c483bab7-cbf7-45a6-b1d1-acc5001354ad)! (Oxy credentials are required)
+View the recording of Yeraldi's presentation [here](https://oxy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e9b3839-83d3-42c8-bb94-acc5000ac25b)! (Oxy credentials are required)
 
 
 Best,
