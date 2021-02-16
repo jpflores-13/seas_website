@@ -4,7 +4,7 @@ bg_image: images/represent.jpg
 categories:
 - Company News
 date: "2021-02-09T11:58:10+06:00"
-description: Meet Dr. Inca Dietrich!
+description: Meet Dr. Inca Dieterich!
 draft: false
 image: images/inca-dietrich.jpeg
 tags:
