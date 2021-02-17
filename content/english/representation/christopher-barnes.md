@@ -27,7 +27,7 @@ type: post
 
 </p>
 
-Check back in a few days for the recording of Dr. Barnes' presentation!
+View the recording of Dr. Barnes' presentation [here](https://oxy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c2309ad-5a13-43c9-93e3-acd101758a46)! (Oxy credentials are required)
 
 
 Best,
